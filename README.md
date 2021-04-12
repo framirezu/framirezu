@@ -2,7 +2,7 @@
 Github profesional, personal y de hobbie.
 ## Sobre Mí
 <ul>
-  <li>🐧 Linuxero trabajando en Infraestructura TI de Servidores Linux/Windows.</li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 🐧 Linuxero trabajando en Infraestructura TI de Servidores Linux/Windows.</li>
   <li>📖 Aprendiendo Laravel haciendo sistemas y scripts para tareas cotidianas de TI.</li>
   <li>👷 En mis ratos libres construyo un sistema de recuperación de contraseña LDAP/AD (Existen varios pero quiero uno a medida 💪).</li>
   <li>👧 Papá de Zoe</li>
