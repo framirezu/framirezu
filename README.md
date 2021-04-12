@@ -1,7 +1,7 @@
 ### Hola Mundo Cruel! 👋
 <ul>
   <li>🐧 Linuxero trabajando en Infraestructura TI de Servidores Linux/Windows.</li>
-  <li>📖 Aprendiendo Laravel haciendo sistemas a medidas para tareas de TI.</li>
+  <li>📖 Aprendiendo Laravel haciendo sistemas y scripts para tareas cotidianas de TI.</li>
   <li>👷 En mis ratos libres construyo un sistema de recuperación de contraseña LDAP/AD (Existen varios pero quiero uno a medida 💪).</li>
   <li>👧 Papá de Zoe</li>
 </ul>
