@@ -2,10 +2,10 @@
 <ul>
   <li>🐧 Linuxero trabajando en Infraestructura TI de Servidores Linux/Windows.</li>
   <li>📖 Aprendiendo Laravel haciendo sistemas a medidas para tareas de TI.</li>
-  <li>👷 En mis ratos libres construyo un sistema de recuperación de contraseña LDAP/AD (Ya existen varios pero quiero uno a medida 💪).</li>
+  <li>👷 En mis ratos libres construyo un sistema de recuperación de contraseña LDAP/AD (Existen varios pero quiero uno a medida 💪).</li>
   <li>👧 Papá de Zoe</li>
 </ul>
-💬 Más acerca de mí en <a href='https://ramirez.pe/index.php/contactanos/' target="_blank">ramirez.pe</a>
+💬 Más acerca de mí en <a href="https://ramirez.pe/" target="_blank">ramirez.pe</a>
 
 <!--
 **framirezu/framirezu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
