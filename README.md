@@ -1,13 +1,11 @@
 ### Hola Mundo Cruel! 👋
-<br><br>
 <ul>
   <li>🐧 Linuxero trabajando en Infraestructura TI de Servidores Linux/Windows.</li>
   <li>📖 Aprendiendo Laravel haciendo sistemas a medidas para tareas de TI.</li>
-  <li>👷 En mis ratos libres construyo un sistema de recuperación de contraseña LDAP/AD (Sé que existen varias alternativas, pero quiero uno a medida 💪).</li>
+  <li>👷 En mis ratos libres construyo un sistema de recuperación de contraseña LDAP/AD (Ya existen varios pero quiero uno a medida 💪).</li>
   <li>👧 Papá de Zoe</li>
 </ul>
 💬 Más acerca de mí en <a href='https://ramirez.pe/index.php/contactanos/'>ramirez.pe</a>
-
 
 <!--
 **framirezu/framirezu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
