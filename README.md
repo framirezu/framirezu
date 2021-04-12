@@ -5,7 +5,7 @@
   <li>👷 En mis ratos libres construyo un sistema de recuperación de contraseña LDAP/AD (Ya existen varios pero quiero uno a medida 💪).</li>
   <li>👧 Papá de Zoe</li>
 </ul>
-💬 Más acerca de mí en <a href='https://ramirez.pe/index.php/contactanos/'>ramirez.pe</a>
+💬 Más acerca de mí en <a href='https://ramirez.pe/index.php/contactanos/' target="_blank">ramirez.pe</a>
 
 <!--
 **framirezu/framirezu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
